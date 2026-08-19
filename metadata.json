@@ -1,0 +1,6 @@
+{
+  "name": "BachatAI - Smart Money Saver & Expense Reducer",
+  "description": "AI-powered financial expense reducer, budget cutter, bill optimizer and money saving assistant with actionable reduction plans in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
